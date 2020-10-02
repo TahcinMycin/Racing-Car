@@ -1,0 +1,25 @@
+E:\Mycin\C#\Projects\Project Two\bin\Debug\Project Two.exe.config
+E:\Mycin\C#\Projects\Project Two\bin\Debug\Project Two.exe
+E:\Mycin\C#\Projects\Project Two\bin\Debug\Project Two.pdb
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project Two.csprojAssemblyReference.cache
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project_Two.Form1.resources
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project_Two.Properties.Resources.resources
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project Two.csproj.GenerateResource.cache
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project Two.exe
+E:\Mycin\C#\Projects\Project Two\obj\Debug\Project Two.pdb
+E:\Mycin\C#\Projects\Racing Car\bin\Debug\Project Two.exe.config
+E:\Mycin\C#\Projects\Racing Car\bin\Debug\Project Two.exe
+E:\Mycin\C#\Projects\Racing Car\bin\Debug\Project Two.pdb
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.csprojAssemblyReference.cache
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project_Two.Form1.resources
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project_Two.Properties.Resources.resources
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.csproj.GenerateResource.cache
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.exe
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.pdb
+E:\Mycin\C#\Projects\Racing Car\bin\Debug\Interop.WMPLib.dll
+E:\Mycin\C#\Projects\Racing Car\bin\Debug\AxInterop.WMPLib.dll
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Interop.WMPLib.dll
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\AxInterop.WMPLib.dll
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.csproj.ResolveComReference.cache
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project Two.csproj.CoreCompileInputs.cache
+E:\Mycin\C#\Projects\Racing Car\obj\Debug\Project_Two.game.resources
